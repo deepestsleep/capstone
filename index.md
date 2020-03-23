@@ -5,5 +5,5 @@
   -[Resume](docs.resume.md)
   -[Cover Letter](docs/cv.md)
   -[Philosophy](docs/philosopy.md)
-* [Academic Credentials](credentials.md)
-* [Capstone Summary](summary.md)
+2. [Academic Credentials](credentials.md)
+3. [Capstone Summary](summary.md)
